@@ -55,7 +55,7 @@ window.addEventListener('scroll', () => {
 
 
 
-// ADDED AFTER TUTORIAL
+
 // close nav menu when any nav Items is clicked on tablets and mobile
 const navItems = document.querySelectorAll('.nav__items li a');
 if(window.innerWidth < 1024) {
